@@ -1,19 +1,25 @@
-### Hey there :wave:
+### Hi, I'm Nathan :wave:
 
-I'm Nathan, a software engineer with several years of experience as a full-stack engineer and architect of cloud-based applications on AWS.
+I'm a senior software engineer with a focus on backend systems and full-stack product development. I've led projects in Rust, Go, and TypeScript, shipping scalable cloud-based applications.
 
-My professional interests:
+**Tech specialties:**
+- Rust, Go, TypeScript, React
+- System design, clean architecture, performance
+- Cloud-native apps (AWS, Linux), optimized for speed, reliability, and user experience
 
-- Rust :crab:, Go (lang)
-- React, TypeScript, Bun
-- Cloud app architecture (AWS certified :raised_hand:)
-- Linux, Devops, Automated Provisioning (Ansible, OpenTofu, Packer)
+**Domain interests:**
+- AgTech, FinTech, and tools that empower small teams
+- High-performance backend systems and thoughtful UX
+- The modern tech renaissance: AI, crypto, clean energy (esp. nuclear), open protocols and space exploration as drivers of human freedom and progress
 
-Non-work interests:
-
-- Farming :corn:
-- Electronics, microcontroller and Raspberry Pi projects :computer:
+**Outside of work:**
+- Organic farming
+- Electronics, microcontroller and Raspberry Pi projects
 - Brazil :brazil: and Luxembourg :luxembourg:
+
+**I care about:**
+- Building fast, reliable systems with clean abstractions.
+- Ownership and clarity across the stack--from code to infra.
 
 Links:
 
