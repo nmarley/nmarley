@@ -10,7 +10,7 @@ I'm a senior software engineer with a focus on backend systems and full-stack pr
 **Domain interests:**
 - AgTech, FinTech, and tools that empower small teams
 - High-performance backend systems and thoughtful UX
-- The modern tech renaissance: AI, crypto, clean energy (esp. nuclear), open protocols and space exploration as drivers of human freedom and progress
+- The modern tech renaissance: AI, crypto, clean energy (esp. nuclear + solar), open protocols and space exploration as drivers of human freedom and progress
 
 **Outside of work:**
 - Organic farming
