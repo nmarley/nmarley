@@ -23,5 +23,6 @@ I'm a senior software engineer with a focus on backend systems and full-stack pr
 
 Links:
 
-- [Portfolio](https://marley.io)
+- [Blog](https://ngmarley.com/blog/)
+- [Portfolio](https://marley.io/)
 - [LinkedIn](https://www.linkedin.com/in/nmarley/)
