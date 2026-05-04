@@ -1,16 +1,17 @@
-### Hi, I'm Nathan :wave:
+### Hi, I'm Nathan
 
-I'm a senior software engineer with a focus on backend systems and full-stack product development. I've led projects in Rust, Go, and TypeScript, shipping scalable cloud-based applications.
+I'm a principal software engineer focused on distributed systems, blockchain infrastructure, and platform engineering. I've spent 10+ years building high-reliability backends in Rust, Go, TypeScript, and Python, with an AI-native workflow.
 
-**Tech specialties:**
-- Rust, Go, TypeScript, React
-- System design, clean architecture, performance
-- Cloud-native apps (AWS, Linux), optimized for speed, reliability, and user experience
+**Core expertise:**
+- Distributed systems, blockchain protocol development, platform architecture
+- Rust, Go, TypeScript, Python
+- AWS, Kubernetes, Terraform/OpenTofu, GitOps, CI/CD
+- Cryptographic libraries, consensus systems, network governance
 
 **Domain interests:**
-- AgTech, FinTech, and tools that empower small teams
-- High-performance backend systems and thoughtful UX
-- The modern tech renaissance: AI, crypto, clean energy (esp. nuclear + solar), open protocols and space exploration as drivers of human freedom and progress
+- Privacy-preserving financial infrastructure and open protocols
+- AgTech, AI/robotics, and tools that extend human capability
+- Clean energy (nuclear + solar), space exploration, and systems that expand human freedom
 
 **Outside of work:**
 - Organic farming
@@ -18,8 +19,9 @@ I'm a senior software engineer with a focus on backend systems and full-stack pr
 - Brazil :brazil: and Luxembourg :luxembourg:
 
 **I care about:**
-- Building fast, reliable systems with clean abstractions.
-- Ownership and clarity across the stack--from code to infra.
+- Building fast, reliable systems with clean abstractions
+- Ownership and clarity across the stack, from code to infra
+- Technology as a vehicle for sovereignty and human progress
 
 Links:
 
